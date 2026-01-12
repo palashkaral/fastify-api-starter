@@ -2,7 +2,7 @@
 # Hi, I'm Palash 👋
 
 ### 🚀 About Me
-Experienced Project Manager | Cloud & Enterprise Solutions Specialist with 18+ years of experience in Java, Node.js, Microservices, and AWS. Passionate about open-source, cloud architecture, and building scalable systems.
+Experienced Project Manager | Cloud & Enterprise Solutions Specialist with 18+ years of experience in Project Management in angular, react ,Java, Node.js, Microservices, and AWS and AI technologies. Passionate about open-source, cloud architecture, and building scalable systems.
 
 - 💻 **Tech Stack:** Java | Spring Boot | Node.js | Fastify | AWS | MySQL | Docker
 - 🌱 **Currently learning:** AI & Cloud Architecture
